@@ -1,0 +1,7 @@
+                     precision    recall  f1-score   support
+
+     Non Clickbaits       0.68      0.94      0.79      2192
+   Maybe Clickbaits       0.45      0.23      0.30      1127
+Definite Clickbaits       0.70      0.35      0.46       589
+
+        avg / total       0.62      0.65      0.60      3908
